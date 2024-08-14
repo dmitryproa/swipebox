@@ -1,3 +1,6 @@
+ORIGIN: https://github.com/brutaldesign/swipebox
+Made this fork just for composer
+
 Swipebox
 ================================
 

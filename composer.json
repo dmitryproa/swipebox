@@ -1,0 +1,14 @@
+{
+    "name": "dmitryproa/swipebox",
+    "description": "A touchable jQuery lightbox (origin: https://brutaldesign.github.io/swipebox/ )",
+    "type": "library",
+    "require": {
+        "components/jquery": ">=1.8"
+    },
+    "authors": [
+        {
+            "name": "brutaldesign",
+            "email": "hello@csag.co"
+        }
+    ]
+}
