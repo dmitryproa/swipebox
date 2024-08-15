@@ -9,6 +9,9 @@
     "scripts": [
       "src/js/jquery.swipebox.js"
     ],
+    "styles": [
+      "src/css/swipebox.css"
+    ],
     "main": "src/js/jquery.swipebox.min.js"
   }
   
